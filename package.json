@@ -2,7 +2,7 @@
   "name": "cra-test",
   "version": "0.1.0",
   "private": true,
-  "main": "index.dist.js",
+  "main": "src/App.js",
   "devDependencies": {
     "autoprefixer": "6.5.1",
     "babel-core": "6.17.0",
